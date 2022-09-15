@@ -16,5 +16,5 @@
     "price": 900,
     "thumbnail": "https://buytek.net/wp-content/uploads/2021/10/Iphone-13-Pro.11.png",
     "id": 3
-  },
+  }
 ]

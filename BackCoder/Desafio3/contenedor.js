@@ -104,6 +104,7 @@ class Contenedor {
       if (this.knowIfItExist(this.file)) {
         console.log("se esta leyendo el archivo");
         const data = await this.readFile(this.file);
+        return data; 
         /* se verifica si el archivo esta vacio */
         if (data.length !== 0) {
           console.log(`Contenido del archivo ${this.file} :\n`, data);
