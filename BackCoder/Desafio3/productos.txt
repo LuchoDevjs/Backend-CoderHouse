@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Iphone 11",
+    "price": 600,
+    "thumbnail": "http://www.vicionet.com/Vel/426-large_default/apple-iphone-11-64gb-.jpg",
+    "id": 1
+  },
+  {
+    "title": "Iphone 12",
+    "price": 750,
+    "thumbnail": "https://itechstore.com.ar/wp-content/uploads/2020/12/iphone-12-blue-select-2020.png",
+    "id": 2
+  },
+  {
+    "title": "Iphone 13",
+    "price": 900,
+    "thumbnail": "https://buytek.net/wp-content/uploads/2021/10/Iphone-13-Pro.11.png",
+    "id": 3
+  },
+]
