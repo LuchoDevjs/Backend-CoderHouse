@@ -1,0 +1,17 @@
+.output-message {
+    min-height: 20rem;
+    background-color: #212529;
+    margin-bottom: 1rem;
+}
+
+.text-brown {
+    color: brown;
+}
+
+.text-green {
+    color: green;
+}
+
+.no-dots {
+    list-style-type: none;
+}
