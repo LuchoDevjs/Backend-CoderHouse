@@ -4,25 +4,11 @@ Se utilizara PM2, Forever y NGINX para crear un servidor multi hilos
 
 ## Configuracion
 
-- Para poder iniciar el proyecto se debe clonar o descargar el repositorio
-
-```
-git clone https://github.com/ShannonEchegaray/Desarollo-Backend---Shannon-Echegaray
-```
-
-- A continuacion, ya descargado ejecutar los siguiente comando desde la carpeta "Desarrollo-Backend---Shannon-Echegaray"
-
-```
-git checkout desafio-13
-npm install
-```
-
-- Ya ejecutado, crear un archivo llamado ".env" y dentro escribir lo siguiente
+Ya ejecutado, crear un archivo llamado ".env" y dentro escribir lo siguiente
 
 ```
 NODE_ENV=local
 NODE_URL="http://localhost"
-MONGO_URL="mongodb+srv://backend:Passw0rd@cluster0.rdtbnd0.mongodb.net/?retryWrites=true&w=majority"
 ```
 
 - Ejecutar nginx con su respectiva configuracion de proxy, *Se dejó los archivos de configuracion en "/nginx/conf/nginx - consigna x.conf"*
